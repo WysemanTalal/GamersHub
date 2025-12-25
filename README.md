@@ -16,3 +16,5 @@ Product cards displaying prices and "Add to Cart" buttons.
 A dedicated "About" section explaining the shop's mission.
 
 Basic contact form for customer inquiries.
+
+Footer section with quick links for easier user inquiries
