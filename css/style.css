@@ -883,3 +883,27 @@ form button {
   line-height: 1.6;
 }
 
+@media (max-width: 769px) {
+    .product-card {
+        padding: 12px 20px;
+        height: 280px;
+    }
+    .card-content img {
+        height: 150px;
+        width: 120px;
+    }
+}
+
+@media (max-width: 400px) {
+    .product-section {
+        padding: 20px 10px;
+    }
+    .product-card {
+        padding: 10px 15px;
+        height: 25px;
+    }
+    .card-content img {
+        height: 120px;
+        width: 100px;
+    }
+}
